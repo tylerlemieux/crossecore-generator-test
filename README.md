@@ -27,7 +27,7 @@ usage: crossecore
 # Tests
 
 ## Build Antlr Parsers and Lexers
-
+   
 Download 
 * https://github.com/antlr/grammars-v4/blob/master/typescript/TypeScriptLexer.g4
 * https://github.com/antlr/grammars-v4/blob/master/typescript/TypeScriptParser.g4
